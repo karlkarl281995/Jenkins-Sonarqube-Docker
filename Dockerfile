@@ -1,2 +1,2 @@
 FROM nginx
-COPY . /usr/share/nginx/html/
+COPY medicio /usr/share/nginx/html
